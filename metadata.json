@@ -1,6 +1,0 @@
-{
-  "name": "Status Report LASA",
-  "description": "Painel de Gestão de Ideias e Melhorias LASA - Período 05/08 a 12/08",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
